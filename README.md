@@ -1,7 +1,7 @@
-# Livro de receiras :man_cook:
+# Livro de receitas :man_cook:
 
 olá! bem vindo ao meu livro de receitas :wave:
 
-- Strogonof de frango
-- frango a passarinho
+- Strogonoff de frango
+- receita de pavê
 
