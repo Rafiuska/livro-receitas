@@ -11,3 +11,4 @@
   - coloque óleo na frigideira
   - quebre o ovo e coloque para fritar
   - adicione o sal
+  - comer
